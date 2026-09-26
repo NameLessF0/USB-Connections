@@ -1,3 +1,8 @@
+Write-Host "`nUSB-Connections by NameLessF0" -ForegroundColor Black
+Write-Host "`nGitHub: https://github.com/NameLess0" -ForegroundColor White
+Write-Host "`nDiscord: https://discord.gg/k7hcQKRXQt" -ForegroundColor Blue
+Write-Host "`nRunning the script..." -ForegroundColor Red
+
 $previous = @{}
 
 while ($true) {
